@@ -1,12 +1,20 @@
 # jaoprator-eg
 class 2
+
+
 import java.util.Scanner;
 
-public class jaoprator {
-        public static void main (String arg[]){
+public class jaoprator
+{
+        public static void main (String arg[])
+        
+        {
       // arithmetic opration
+      
         int a =10;
+        
         int b=5;
+        
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
